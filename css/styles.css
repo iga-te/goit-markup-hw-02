@@ -158,7 +158,7 @@ footer {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625;
-  color: var(--text-color-main)
+  color: var(--text-color-main);
   background-color: var(--button-color-sub);
   cursor: pointer;
 }
