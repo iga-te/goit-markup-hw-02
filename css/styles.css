@@ -1,4 +1,5 @@
-@import url(vars.css);
+@import url(/css/vars.css);
+
 body {
   font-family: Roboto, sans-serif;
   color: #212121;
